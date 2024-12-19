@@ -6,3 +6,5 @@ plotly
 spacy
 concurrent.futures
 fpdf
+io
+collections
