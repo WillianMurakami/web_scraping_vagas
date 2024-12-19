@@ -1,0 +1,8 @@
+streamlit
+selenium
+pandas
+openpyxl
+plotly
+spacy
+concurrent.futures
+fpdf
