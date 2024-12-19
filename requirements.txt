@@ -4,7 +4,3 @@ pandas
 openpyxl
 plotly
 spacy
-concurrent.futures
-fpdf
-io
-collections
